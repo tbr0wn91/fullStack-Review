@@ -60,6 +60,8 @@
         middleware.js
     - controller
         - killCountController.js
+        - authController.js
+        
 
 
 ### endpoints
